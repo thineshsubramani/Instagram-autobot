@@ -56,5 +56,5 @@ class Instabot:
             count +=1
         print(count)
 
-my_bot = Instabot("thineshsubramani","theri5085")
+my_bot = Instabot("username","password")
 my_bot.get_followers()
